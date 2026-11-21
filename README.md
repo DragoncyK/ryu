@@ -1,29 +1,29 @@
 # Ryu
 
-Navegador para Windows con espacios, barra lateral, vista dividida y mini reproductor. Creado por **DragoncyK**.
+A web browser for Windows with spaces, a sidebar, split view and a mini player. Made by **DragoncyK**.
 
-## Instalar
+## Install
 
-1. Abre la [última versión](https://github.com/DragoncyK/ryu/releases/latest).
-2. En **Assets**, descarga `Ryu-Setup-<versión>.exe`.
-3. Ábrelo. Si Windows avisa de un editor desconocido, pulsa **Más información → Ejecutar de todas formas**
-   (el instalador aún no lleva un certificado de pago; el aviso solo sale esta vez).
-4. Elige dónde instalarlo y listo. No hacen falta permisos de administrador.
+1. Open the [latest release](https://github.com/DragoncyK/ryu/releases/latest).
+2. Under **Assets**, download `Ryu-Setup-<version>.exe`.
+3. Open it. If Windows warns about an unknown publisher, choose **More info → Run anyway**
+   (the installer doesn't carry a paid certificate yet; the warning only shows this once).
+4. Pick where to install it and you're done. No administrator rights needed.
 
-## Actualizaciones
+## Updates
 
-Ryu se actualiza solo: busca versiones nuevas al abrirse y cada pocas horas, las descarga en segundo plano y
-muestra **Actualizar** en la barra lateral. Si no lo pulsas, se instala al cerrar Ryu.
+Ryu updates itself: it looks for new versions when it opens and every few hours, downloads them in the
+background and shows **Update** in the sidebar. If you don't click it, the update installs when you close Ryu.
 
-Cada versión va firmada por su creador. Antes de instalar nada, Ryu comprueba esa firma; una versión sin
-firma o modificada se borra y no se instala nunca.
+Every version is signed by its creator. Before installing anything, Ryu checks that signature; a version that
+is unsigned or has been changed is deleted and never installed.
 
-## Privacidad
+## Privacy
 
-- Ryu no tiene servidores ni cuentas: tu historial, tus pestañas y tus contraseñas se quedan en tu PC.
-- Las contraseñas se guardan cifradas con tu cuenta de Windows.
-- Lo único que Ryu consulta por internet, aparte de las webs que abres: las sugerencias del buscador que
-  elijas, listas públicas de sitios peligrosos, las actualizaciones de este repositorio y, si lo pides, si
-  una contraseña aparece en filtraciones (sin enviar nunca la contraseña).
+- Ryu has no servers and no accounts: your history, tabs and passwords stay on your PC.
+- Passwords are stored encrypted with your Windows account.
+- Besides the websites you open, Ryu only reaches the internet for: suggestions from the search engine you
+  choose, public lists of dangerous sites, updates from this repository and, if you ask, whether a password
+  appears in known data leaks (without ever sending the password).
 
-Este repositorio solo contiene los instaladores; el código de Ryu no es público.
+This repository only holds the installers; Ryu's source code is not public.
