@@ -40,4 +40,14 @@ send it; you see everything before sending. Issues are public, so please leave o
   choose, public lists of dangerous sites, updates from this repository and, if you ask, whether a password
   appears in known data leaks (without ever sending the password).
 
+The full [privacy policy](PRIVACY.md) lists every service Ryu connects to and why.
+
+## Terms
+
+Ryu is free to use. It is provided as is, without warranty of any kind: its creator is not liable for any
+damage or loss arising from its use. Ryu is built on open-source software (Electron, Chromium and others),
+whose authors keep their copyright; their licences ship with Ryu (**Settings → Privacy and licences**).
+Ryu is an independent project, not affiliated with Google, Microsoft, Netflix or any other company whose
+names appear in it; those names are trademarks of their owners.
+
 This repository only holds the installers; Ryu's source code is not public.
