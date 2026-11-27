@@ -2,6 +2,22 @@
 
 A web browser for Windows with spaces, a sidebar, split view and a mini player. Made by **DragoncyK**.
 
+## What it does
+
+- **Spaces** keep work, studies and the rest apart, each with its own tabs, colour and (if you like) its own
+  sign-ins. Open as many **windows** as you want, each showing one space.
+- **A sidebar** with pinned tabs, folders and today's tabs; unused tabs **sleep** to save memory and can be
+  **archived** after a while.
+- **Split view** shows two pages side by side; **Alt+click** previews a link without leaving the page.
+- **The command bar** (Ctrl+T) opens sites, searches, runs commands and finds your tabs, history and, if you
+  turn it on, **pages by what they said**.
+- **Shields** block ads, trackers and cookie notices on every site; **HTTPS first**, secure DNS and a
+  **safety check** are built in.
+- **Passwords** with two-step codes, filled only when you choose, and imports from Chrome, Edge, Brave,
+  Firefox, Arc, Vivaldi and Opera.
+- **A mini player** for video, **reader view**, **area capture**, page **QR codes**, notes and Chrome
+  extensions.
+
 ## Install
 
 1. Open the [latest release](https://github.com/DragoncyK/ryu/releases/latest).
@@ -35,7 +51,8 @@ send it; you see everything before sending. Issues are public, so please leave o
   Settings you can also lock them with a master password (opened with Windows Hello too), so that not even
   a program running on your PC can read them.
 - Ryu keeps backups of your settings, tabs, notes and saved passwords (still encrypted) from the last few
-  days, to repair its data if needed. Browsing history is never in them, and deleting data deletes them too.
+  days, to repair its data if needed. Browsing history and the text of pages you read are never in them, and
+  deleting data deletes them too.
 - Besides the websites you open, Ryu only reaches the internet for: suggestions from the search engine you
   choose, public lists of dangerous sites, updates from this repository and, if you ask, whether a password
   appears in known data leaks (without ever sending the password).
